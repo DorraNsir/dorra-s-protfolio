@@ -2,11 +2,11 @@
 :root{
     --header-height:3rem;
     --hue:336;
-    --title-color:hsl(334, 44%, 74%);
-    --title-color-dark:hsl(0, 0%, 0%);
-    --text-color:hsl(338, 9%, 45%);
-    --body-color:hsl(0,0%,100%);
-    --container-color:hsl(0, 18%, 90%);
+    --title-color: hsl(330, 50%, 70%); /* A deeper shade of pink */
+    --title-color-dark: hsl(0, 0%, 10%); /* Dark black for dark text */
+    --text-color: hsl(340, 20%, 40%); /* Slightly more saturated pink for text */
+    --body-color: hsl(0, 0%, 100%); /* White background */
+    --container-color: hsl(340, 10%, 95%);
 
 
     /* ************ Font and typography ************ */
