@@ -10,7 +10,7 @@ export default function Data() {
         <h3 className='home__subtitle'>Software developer</h3>
         <p className="home__description">I'm crative software developper based in Tunisia, and I'm very passionate and dedicated to my work.</p>
         <a href="#contact" className="button button--flex">Say Hello
-
+        <i class="ri-send-plane-fill"></i>
         </a>
     </div>
   )
