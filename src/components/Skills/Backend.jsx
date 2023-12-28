@@ -47,7 +47,7 @@ export default function Backend() {
           <div className="skills__data">
             <i class="ri-verified-badge-line"></i>
             <div>
-              <h3 className="skills__name">Firebase</h3>  
+              <h3 className="skills__name">Django</h3>  
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -56,6 +56,14 @@ export default function Backend() {
             <i class="ri-verified-badge-line"></i>
             <div>
               <h3 className="skills__name">SQL</h3>  
+              <span className="skills__level">Intermediate</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i class="ri-verified-badge-line"></i>
+            <div>
+              <h3 className="skills__name">Java</h3>  
               <span className="skills__level">Intermediate</span>
             </div>
           </div>

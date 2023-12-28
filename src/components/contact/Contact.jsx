@@ -25,8 +25,8 @@ export default function Contact() {
             <div className="contact__card">
               <i className="ri-mail-send-line contact__card-icon"></i>
               <h3 className="contact__card-title">Email </h3>
-              <span className="contact__card-data">user@gmail.com</span>
-              <a href="mailto:dorransir24@gmail.com" className="contact__button">
+              <span className="contact__card-data">dorransir24@gmail.com</span>
+              <a href="dorransir24@gmail.com" className="contact__button">
                 Write me <i className="ri-arrow-right-fill contact__button-icon"></i>
               </a>
             </div>
@@ -34,8 +34,8 @@ export default function Contact() {
             <div className="contact__card">
               <i className="ri-whatsapp-line contact__card-icon"></i>
               <h3 className="contact__card-title">WhatsApp </h3>
-              <span className="contact__card-data">99-888-777</span>
-              <a href=" " className="contact__button">
+              <span className="contact__card-data">92-456-701</span>
+              <a href="https://web.whatsapp.com/" className="contact__button">
                 Write me <i className="ri-arrow-right-fill contact__button-icon"></i>
               </a>
             </div>
@@ -43,8 +43,8 @@ export default function Contact() {
             <div className="contact__card">
               <i className="ri-messenger-fill contact__card-icon"></i>
               <h3 className="contact__card-title">Messenger </h3>
-              <span className="contact__card-data">user.fb123</span>
-              <a href=" " className="contact__button">
+              <span className="contact__card-data">Dorra Nsir</span>
+              <a href="https://www.messenger.com/" className="contact__button">
                 Write me <i className="ri-arrow-right-fill contact__button-icon"></i>
               </a>
             </div>

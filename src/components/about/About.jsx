@@ -16,7 +16,7 @@ export default function About() {
         <div className="about__data">
             <Info/>
             <p className="about__description">
-                Frontend developer, I create web pages with UI/UX user interace, I have years of experience and many clients are  happy with the projects carried out.
+            Greetings! I am a dedicated and ambitious second-year student at the Higher Institute of Technological Studies of Nabeul, specializing in Information System Development. My journey in the field of technology has been marked by a passion for creating efficient and innovative solutions. Through my academic pursuits, I've cultivated a strong foundation in information systems, programming, and development methodologies.
             </p>
             <a download="" href={CV} className="button button--flex"> 
             Download CV  &nbsp; <i class="ri-file-pdf-2-line"></i>

@@ -16,11 +16,13 @@
 
 }
 .scroll-header{
-    box-shadow: 0 -1px 4px rgba(151, 65, 65, 0.15);
+    box-shadow: 0 -1px 4px rgba(0,0,0,0.15);
+    background-color: var(--container-color);
 }
 .nav__logo{
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
+    
 }
 .nav__logo,
 .nav__toggle{

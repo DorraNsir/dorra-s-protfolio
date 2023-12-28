@@ -6,9 +6,9 @@ import 'remixicon/fonts/remixicon.css';
 export default function Header() {
   /*======== change nav color ============*/ 
   window.addEventListener("scroll",function(){
-    const header=this.document.querySelector(".header");
-    if(this.scrollY >= 80)header.classList.add("scroll-header");
-    else header.classList.remove("scroll-header")
+    const Header=this.document.querySelector(".header");
+    if(this.scrollY >= 80)Header.classList.add("scroll-header");
+    else Header.classList.remove("scroll-header")
 })
     /*======== Toggle Menu ============*/ 
     const[Toggle,showMenu]= useState(false);

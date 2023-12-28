@@ -10,7 +10,7 @@ export default function Scrollup() {
   return (
     // eslint-disable-next-line jsx-a11y/anchor-is-valid
     <a href="#" className="scrollup">
-    <i class="ri-arrow-up-fill scrollup__icon"></i>
+        <i class="ri-arrow-up-fill scrollup__icon"></i>
     </a>
   )
 }

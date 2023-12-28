@@ -47,13 +47,13 @@ export default function Qualification() {
                 <div className="qualification__data">
                     <div>
                         <h3 className="qualification__title">
-                            Web Design
+                            first-year in ISET
                         </h3>
                         <span className="qualification__subtitle">
                             Tunisia - Institute
                         </span>
                         <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
+                        <i class="ri-calendar-2-line"></i> 2022 - 2023
                         </div>
                     </div>
 
@@ -75,7 +75,7 @@ export default function Qualification() {
 
                     <div>
                         <h3 className="qualification__title">
-                            Art Director
+                        Second-year in ISET
                         </h3>
                         <span className="qualification__subtitle">
                             Tunisia - Institute
@@ -85,49 +85,6 @@ export default function Qualification() {
                         </div>
                     </div>
                 </div>
-
-                <div className="qualification__data">
-                    <div>
-                        <h3 className="qualification__title">
-                            Web Development
-                        </h3>
-                        <span className="qualification__subtitle">
-                            Tunisia - Institute
-                        </span>
-                        <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
-                        </div>
-                    </div>
-
-                    <div>
-                        <span className="qualification__rounder"></span>
-                        <span v className="qualification__line"></span>
-                    </div>
-
-                </div>
-
-                <div className="qualification__data">
-                    <div></div>
-
-                    
-                    <div>
-                        <span className="qualification__rounder"></span>
-                        <span className="qualification__line"></span>
-                    </div>
-
-                    <div>
-                        <h3 className="qualification__title">
-                            UX Expert
-                        </h3>
-                        <span className="qualification__subtitle">
-                            Tunisia - Institute
-                        </span>
-                        <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
-                        </div>
-                    </div>
-                </div>
-
             </div>
 
             <div className={
@@ -139,13 +96,13 @@ export default function Qualification() {
                 <div className="qualification__data">
                     <div>
                         <h3 className="qualification__title">
-                            Product Designer
+                            information Systeme development
                         </h3>
                         <span className="qualification__subtitle">
                             Tunisia - Institute
                         </span>
                         <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
+                        <i class="ri-calendar-2-line"></i> 2023 - 2024
                         </div>
                     </div>
 
@@ -156,7 +113,7 @@ export default function Qualification() {
 
                 </div>
 
-                <div className="qualification__data">
+                {/* <div className="qualification__data">
                     <div></div>
 
                     
@@ -167,36 +124,17 @@ export default function Qualification() {
 
                     <div>
                         <h3 className="qualification__title">
-                            UX Designer
+                            
                         </h3>
                         <span className="qualification__subtitle">
-                            Tunisia - Institute
+                            
                         </span>
                         <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
+                        <i class="ri-calendar-2-line"></i> 
                         </div>
                     </div>
-                </div>
+                </div> */}
 
-                <div className="qualification__data">
-                    <div>
-                        <h3 className="qualification__title">
-                            Web Designer
-                        </h3>
-                        <span className="qualification__subtitle">
-                            Tunisia - Institute
-                        </span>
-                        <div className="qualification__calendar">
-                        <i class="ri-calendar-2-line"></i> 2021 - Present
-                        </div>
-                    </div>
-
-                    <div>
-                        <span className="qualification__rounder"></span>
-                        <span v className="qualification__line"></span>
-                    </div>
-
-                </div>
 
 
             </div>
